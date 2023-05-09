@@ -2,6 +2,6 @@
 
 Personal Challenge: Solving 1 LeetCode question every day for 100 days (Python, C++)
 
-Day 1 (Invert Binary Tree): https://leetcode.com/problems/invert-binary-tree/
-Day 2 (Spiral Matrix): https://leetcode.com/problems/spiral-matrix/
-Day 3 (Number of Islands): https://leetcode.com/problems/number-of-islands/
+Day 1 (Invert Binary Tree): https://leetcode.com/problems/invert-binary-tree/ <br/>
+Day 2 (Spiral Matrix): https://leetcode.com/problems/spiral-matrix/ <br/>
+Day 3 (Number of Islands): https://leetcode.com/problems/number-of-islands/ <br/>
