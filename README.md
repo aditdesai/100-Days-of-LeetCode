@@ -2,7 +2,7 @@
 
 Personal Challenge: Solving at least 1 LeetCode question every day for 100 days (In Python and C++)
 
-(!) = Extremely Tough. Revisit this later.
+(!) = Tough. Revisit this later.
 
 Day 1 (Invert Binary Tree): https://leetcode.com/problems/invert-binary-tree/ <br/>
 Day 2 (Spiral Matrix): https://leetcode.com/problems/spiral-matrix/ <br/>
@@ -18,3 +18,4 @@ Day 8 (Maximum Depth of a Binary Tree): https://leetcode.com/problems/maximum-de
 (Minimum Depth of a Binary Tree): https://leetcode.com/problems/minimum-depth-of-binary-tree/ <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 (Swapping Nodes in a Linked List): https://leetcode.com/problems/swapping-nodes-in-a-linked-list/ <br/>
+Day 9 (kth Largest Element in an Array): https://leetcode.com/problems/kth-largest-element-in-an-array/ <br/>
