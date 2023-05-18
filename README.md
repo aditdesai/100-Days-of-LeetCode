@@ -20,3 +20,4 @@ Day 8 (Maximum Depth of a Binary Tree): https://leetcode.com/problems/maximum-de
 (Swapping Nodes in a Linked List): https://leetcode.com/problems/swapping-nodes-in-a-linked-list/ <br/>
 Day 9 (kth Largest Element in an Array): https://leetcode.com/problems/kth-largest-element-in-an-array/ <br/>
 Day 10 (LRU Cache): https://leetcode.com/problems/lru-cache/description/ <br/>
+Day 11 (Sort Array by Increasing Frequency): https://leetcode.com/problems/sort-array-by-increasing-frequency/ <br/>
