@@ -2,8 +2,6 @@
 
 Personal Challenge: Solving at least 1 LeetCode question every day for 100 days (In Python and C++)
 
-(ADD SCREENSHOT OF QUESTIONS FROM DAY 12)
-
 (!) = Solve again in future.
 
 Day 1 (Invert Binary Tree): https://leetcode.com/problems/invert-binary-tree/ <br/>
