@@ -2,6 +2,8 @@
 
 Personal Challenge: Solving at least 1 LeetCode question every day for 100 days (In Python and C++)
 
+(ADD SCREENSHOT OF QUESTIONS FROM DAY 12)
+
 (!) = Solve again in future.
 
 Day 1 (Invert Binary Tree): https://leetcode.com/problems/invert-binary-tree/ <br/>
@@ -23,3 +25,6 @@ Day 10 (!)(LRU Cache): https://leetcode.com/problems/lru-cache/description/ <br/
 Day 11 (Sort Array by Increasing Frequency): https://leetcode.com/problems/sort-array-by-increasing-frequency/ <br/>
 Day 12 (Majority Element): https://leetcode.com/problems/majority-element/ <br/>
 Day 13 (Majority Element II): https://leetcode.com/problems/majority-element-ii/ <br/>
+Day 14 (kth Smallest ELement in a BST): https://leetcode.com/problems/kth-smallest-element-in-a-bst/ <br/>
+Day 15 (Implement Queue Using Stacks): https://leetcode.com/problems/implement-queue-using-stacks/ <br/>
+Day 16 (Implement Stack Using Queues): https://leetcode.com/problems/implement-stack-using-queues/ <br/>
