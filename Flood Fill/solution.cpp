@@ -1,10 +1,15 @@
+#include <iostream>
+#include <vector>
+
+using namespace std;
+
 class Solution {
 private:
     void flood(vector<vector<int>>& image, int i, int j, int origColor, int newColor) //DFS
     {
         if (i < 0 || i >= image.size() || j < 0 || j >= image[0].size())
             return;
-        if (image[i][j] == newColor)
+        if (image[i][j] == newColor) //this base case only needed on leetcode, locally no need for this base case
             return;
         if (image[i][j] == origColor)
         {
@@ -25,3 +30,21 @@ public:
         return image;
     }
 };
+
+int main()
+{
+    vector<vector<int>> v = {{1, 1, 1}, {1, 1, 0}, {1, 0, 1}};
+    Solution s;
+    v = s.floodFill(v, 1, 1, 2);
+
+    for(int i = 0; i < v.size(); ++i)
+    {
+        for(int j = 0; j < v[0].size(); ++j)
+        {
+            cout << v[i][j] << " ";
+        }
+        cout << "\n";
+    }
+
+    return 0;
+}
