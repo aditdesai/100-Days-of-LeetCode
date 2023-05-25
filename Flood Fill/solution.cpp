@@ -9,7 +9,7 @@ private:
     {
         if (i < 0 || i >= image.size() || j < 0 || j >= image[0].size())
             return;
-        if (image[i][j] == newColor) //this base case only needed on leetcode, locally no need for this base case
+        if (image[i][j] == newColor) 
             return;
         if (image[i][j] == origColor)
         {

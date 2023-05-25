@@ -27,5 +27,5 @@ Day 14 (kth Smallest ELement in a BST): https://leetcode.com/problems/kth-smalle
 Day 15 (Implement Queue Using Stacks): https://leetcode.com/problems/implement-queue-using-stacks/ <br/>
 Day 16 (Implement Stack Using Queues): https://leetcode.com/problems/implement-stack-using-queues/ <br/>
 Day 17 (Flood Fill): https://leetcode.com/problems/flood-fill/ <br/>
-Day 18 (N-th Tribonacci Number): <br/>
+Day 18 (N-th Tribonacci Number): https://leetcode.com/problems/n-th-tribonacci-number/ <br/>
 Day 19 (Unique Paths): <br/>
