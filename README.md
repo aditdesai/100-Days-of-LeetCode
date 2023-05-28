@@ -30,3 +30,4 @@ Day 17 (Flood Fill): https://leetcode.com/problems/flood-fill/ <br/>
 Day 18 (N-th Tribonacci Number): https://leetcode.com/problems/n-th-tribonacci-number/ <br/>
 Day 19 (Unique Paths): https://leetcode.com/problems/unique-paths/ <br/>
 Day 20 (Unique Paths II): https://leetcode.com/problems/unique-paths-ii/ <br/>
+Day 21 (The kth Factor of n): https://leetcode.com/problems/the-kth-factor-of-n/ <br/>
