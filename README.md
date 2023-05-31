@@ -33,3 +33,4 @@ Day 20 (Unique Paths II): https://leetcode.com/problems/unique-paths-ii/ <br/>
 Day 21 (The kth Factor of n): https://leetcode.com/problems/the-kth-factor-of-n/ <br/>
 Day 22 (Longest Palindromic Substring): https://leetcode.com/problems/longest-palindromic-substring/ <br/>
 Day 23 (Design Parking System): https://leetcode.com/problems/design-parking-system/ <br/> 
+Day 24 (Ransom Note): https://leetcode.com/problems/ransom-note/ <br/>
