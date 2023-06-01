@@ -34,3 +34,5 @@ Day 21 (The kth Factor of n): https://leetcode.com/problems/the-kth-factor-of-n/
 Day 22 (Longest Palindromic Substring): https://leetcode.com/problems/longest-palindromic-substring/ <br/>
 Day 23 (Design Parking System): https://leetcode.com/problems/design-parking-system/ <br/> 
 Day 24 (Ransom Note): https://leetcode.com/problems/ransom-note/ <br/>
+Day 25 (Validate Binary Search Tree): https://leetcode.com/problems/validate-binary-search-tree/ <br/>
+Day 26 (Shortest Path in Binary Matrix): <br/>
