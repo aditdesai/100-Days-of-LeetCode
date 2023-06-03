@@ -22,18 +22,18 @@ Day 9 (kth Largest Element in an Array): https://leetcode.com/problems/kth-large
 Day 10 (!)(LRU Cache): https://leetcode.com/problems/lru-cache/description/ <br/>
 Day 11 (Sort Array by Increasing Frequency): https://leetcode.com/problems/sort-array-by-increasing-frequency/ <br/>
 Day 12 (Majority Element): https://leetcode.com/problems/majority-element/ <br/>
-Day 13 (Majority Element II): https://leetcode.com/problems/majority-element-ii/ <br/>
+Day 13 (!)(Majority Element II): https://leetcode.com/problems/majority-element-ii/ <br/>
 Day 14 (kth Smallest ELement in a BST): https://leetcode.com/problems/kth-smallest-element-in-a-bst/ <br/>
 Day 15 (Implement Queue Using Stacks): https://leetcode.com/problems/implement-queue-using-stacks/ <br/>
 Day 16 (Implement Stack Using Queues): https://leetcode.com/problems/implement-stack-using-queues/ <br/>
 Day 17 (Flood Fill): https://leetcode.com/problems/flood-fill/ <br/>
 Day 18 (N-th Tribonacci Number): https://leetcode.com/problems/n-th-tribonacci-number/ <br/>
 Day 19 (Unique Paths): https://leetcode.com/problems/unique-paths/ <br/>
-Day 20 (Unique Paths II): https://leetcode.com/problems/unique-paths-ii/ <br/>
+Day 20 (!)(Unique Paths II): https://leetcode.com/problems/unique-paths-ii/ <br/>
 Day 21 (The kth Factor of n): https://leetcode.com/problems/the-kth-factor-of-n/ <br/>
-Day 22 (Longest Palindromic Substring): https://leetcode.com/problems/longest-palindromic-substring/ <br/>
+Day 22 (!)(Longest Palindromic Substring): https://leetcode.com/problems/longest-palindromic-substring/ <br/>
 Day 23 (Design Parking System): https://leetcode.com/problems/design-parking-system/ <br/> 
 Day 24 (Ransom Note): https://leetcode.com/problems/ransom-note/ <br/>
 Day 25 (Validate Binary Search Tree): https://leetcode.com/problems/validate-binary-search-tree/ <br/>
-Day 26 (Shortest Path in Binary Matrix): https://leetcode.com/problems/shortest-path-in-binary-matrix/ <br/>
+Day 26 (!)(Shortest Path in Binary Matrix): https://leetcode.com/problems/shortest-path-in-binary-matrix/ <br/>
 Day 27 (Longest Common Prefix): https://leetcode.com/problems/longest-common-prefix/ <br/>
