@@ -38,3 +38,4 @@ Day 25 (Validate Binary Search Tree): https://leetcode.com/problems/validate-bin
 Day 26 (!)(Shortest Path in Binary Matrix): https://leetcode.com/problems/shortest-path-in-binary-matrix/ <br/>
 Day 27 (Longest Common Prefix): https://leetcode.com/problems/longest-common-prefix/ <br/>
 Day 28 (Valid Parentheses): https://leetcode.com/problems/valid-parentheses/ <br/>
+Day 29 (Reverse Integer): https://leetcode.com/problems/reverse-integer/ <br/>
