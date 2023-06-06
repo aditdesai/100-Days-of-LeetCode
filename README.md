@@ -39,3 +39,7 @@ Day 26 (!)(Shortest Path in Binary Matrix): https://leetcode.com/problems/shorte
 Day 27 (Longest Common Prefix): https://leetcode.com/problems/longest-common-prefix/ <br/>
 Day 28 (Valid Parentheses): https://leetcode.com/problems/valid-parentheses/ <br/>
 Day 29 (Reverse Integer): https://leetcode.com/problems/reverse-integer/ <br/>
+Day 30 (Permutations): https://leetcode.com/problems/permutations/ <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+(Next Permutation): https://leetcode.com/problems/next-permutation/ <br/>
+Day 31 (Permutations II): <br/>
