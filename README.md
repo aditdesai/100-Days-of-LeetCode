@@ -2,7 +2,9 @@
 
 Personal Challenge: Solving at least 1 LeetCode question every day for 100 days (In Python and C++)
 
-(!) = Solve again in future.
+(!) = Solve again in future
+(!p) = Python solution left
+(!cpp) = C++ solution left
 
 Day 1 (Invert Binary Tree): https://leetcode.com/problems/invert-binary-tree/ <br/>
 Day 2 (Spiral Matrix): https://leetcode.com/problems/spiral-matrix/ <br/>
@@ -42,4 +44,5 @@ Day 29 (Reverse Integer): https://leetcode.com/problems/reverse-integer/ <br/>
 Day 30 (Permutations): https://leetcode.com/problems/permutations/ <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 (Next Permutation): https://leetcode.com/problems/next-permutation/ <br/>
-Day 31 (Permutations II): <br/>
+Day 31 (!p)(Permutations II): https://leetcode.com/problems/permutations-ii/ <br/>
+Day 32 (Shortest Palindrome): <br/>
